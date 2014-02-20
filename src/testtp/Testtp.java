@@ -16,5 +16,6 @@ public class Testtp {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hello haythem");
+        float x = 25;
     }
 }
